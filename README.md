@@ -6,7 +6,7 @@ It automatically runs `ironfish deposit` command. See iron-fish/ironfish-api/pul
 It is designed to be simple enough to run via a cron job.  
 ```
 # m h  dom mon dow   command
-35 * * * * ~/ironfish_tools/deposit_ironfish.shcooper@kr01h:~/ironfish_tools$
+35 * * * * ~/ironfish_tools/deposit_ironfish.sh
 ```
 
 ## REQUIREMENTS:
